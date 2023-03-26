@@ -1,1 +1,1 @@
-# Forward-Forward-Implementation
+# Forward-Forward-Implementation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Co0dN5zhuhgFjY52Y8nyozecaUz6pQoe#scrollTo=t3JsKhLCKXhI)
