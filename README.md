@@ -1,4 +1,4 @@
-# Forward-Forward-Implementation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L7et4UvvN0Pu0lqnpoR8j1ff_OAiIQ_P?authuser=1)
+# Forward-Forward-Implementation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L7et4UvvN0Pu0lqnpoR8j1ff_OAiIQ_P?usp=sharing)
 
 Will the Forward-Forward algorithm replace backpropagation? 🤔
 
